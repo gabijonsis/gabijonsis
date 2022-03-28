@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @gabijonsis
+- 🌱 I’m currently learning front-end
