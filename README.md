@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @gabijonsis
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning both front-end and back-end
+- Dream big
